@@ -1,0 +1,2 @@
+# skrip
+skrip untuk :
